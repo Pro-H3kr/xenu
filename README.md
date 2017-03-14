@@ -15,7 +15,7 @@ A work in progress. Feel free to suggest features in the issues.
 1. Write the token to the contents of text file 'token.txt' in the `xenu` directory
 2. While in `xenu` directory, run:
 
-        python3 launch.py
+        python3 bot2.py
 
 
 ## Contributors
