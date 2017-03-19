@@ -35,6 +35,7 @@ messageIndex = {
 
 containsMessageIndex = {
     # Returns the corresponding text if it contains the keyword unless it interferes with the pMI or mI
+    'tommy wiseau' : 'do you mean one of the best actors in all of existance?'
     'determination' : 'Knowing the mouse might one day leave its hole and get the cheese... It fills you with determination.',
     'china' : 'https://www.youtube.com/watch?v=RDrfE9I8_hs',
     'tunak' : 'https://www.youtube.com/watch?v=vTIIMJ9tUc8',
@@ -48,7 +49,7 @@ containsMessageIndex = {
     'jurassic' : 'https://www.youtube.com/watch?v=-w-58hQ9dLk',
     'my point' : 'https://www.youtube.com/watch?v=WOOw2yWMSfk',
     'shrek' : 'https://www.youtube.com/watch?v=cevWfNbRVpo',
-    'america' : 'America is dead. All hail Rumpland.',
+    'america' : 'America is dead. All hail Trumpland.',
     'rump' : 'FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK https://www.youtube.com/watch?v=AtbMnixO2nc FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK FUCK RUMP'
 }
 
